@@ -2,5 +2,5 @@ food
 -ice cream
 -chicken
 -beef
--mango
 -banana
+-pizza
