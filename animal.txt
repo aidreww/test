@@ -4,3 +4,4 @@ Animal:
 3. Bird
 4. Cow
 5. Goat
+6. Extremely weird cow
