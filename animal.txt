@@ -5,3 +5,5 @@ Animal:
 4. Cow
 5. Goat
 6. Extremely weird cow
+7. Flying fish
+8. Dancing whale
