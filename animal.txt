@@ -5,3 +5,6 @@ Animal:
 4. Cow
 5. Goat
 6. Extremely weird cow
+7. weird goat
+8. weird cat
+9. weird dog
