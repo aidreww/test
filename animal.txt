@@ -2,3 +2,5 @@ Animal:
 1. Cat
 2. Dog
 3. Bird
+4. Cow
+5. Goat
