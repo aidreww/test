@@ -8,3 +8,4 @@ Animal:
 7. Flying fish
 8. Dancing whale
 9. Vomitting cow
+10. Happy cat
